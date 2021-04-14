@@ -1,1 +1,1 @@
-# AngryFriends
+# SlingShot Game
